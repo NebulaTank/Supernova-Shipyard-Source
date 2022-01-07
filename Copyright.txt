@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Supernova-Shipyard-Source
+Upstream-Contact: NebulaTank <nebulatank424@gmail.com>
+Source: https://github.com/NebulaTank/Supernova-Shipyard-Source
+
+Files: *
+Copyright: NebulaTank <nebulatank424@gmail.com>
+License: CC BY-NC-SA 4.0
