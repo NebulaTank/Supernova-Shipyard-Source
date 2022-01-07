@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="Frigate 3.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 156.20469 156.20464"
+   height="156.20464mm"
+   width="156.2047mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\SN\GitHub\Supernova-Shipyard-Source\Vectors - Ships\Frigate 3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="1030.3556"
+     inkscape:cy="-699.02556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1579.0806,417.72671)">
+    <path
+       style="fill:#000000;stroke-width:0.195256"
+       d="m -1510.4271,-319.75712 c -1.6952,-16.99457 -3.1311,-31.27891 -3.191,-31.74298 l -0.1087,-0.84378 -12.6502,-6.32564 -12.65,-6.32565 -2.1097,6.33959 -2.11,6.33957 h -4.249 -4.2491 v -19.03744 -19.03745 h 4.2491 4.249 l 2.11,6.33956 2.1097,6.33958 12.6872,-6.34414 12.687,-6.34415 3.3519,0.0534 3.3519,0.0535 1.477,6.2482 1.4771,6.24819 h 3.0166 3.0167 l 1.4771,-6.24819 1.477,-6.2482 3.3518,-0.0535 3.352,-0.0534 12.6871,6.34415 12.687,6.34414 2.1099,-6.33958 2.1099,-6.33956 h 4.2489 4.2493 v 19.03745 19.03744 h -4.2493 -4.2489 l -2.1099,-6.33957 -2.1099,-6.33959 -12.6501,6.32565 -12.6501,6.32564 -0.1087,0.84378 c -0.06,0.46407 -1.4958,14.74841 -3.1909,31.74298 l -3.0822,30.89925 h -6.3667 -6.3665 z"
+       id="path206" />
+    <path
+       style="fill:#000000;stroke-width:0.195256"
+       d="m -1442.4015,-339.62439 v -78.10232 h 9.7628 9.7628 v 78.10232 78.10232 h -9.7628 -9.7628 z"
+       id="path204" />
+    <path
+       style="fill:#000000;stroke-width:0.195256"
+       d="m -1579.0806,-339.62439 v -78.10232 h 9.7628 9.7628 v 78.10232 78.10232 h -9.7628 -9.7628 z"
+       id="path182" />
+  </g>
+</svg>
