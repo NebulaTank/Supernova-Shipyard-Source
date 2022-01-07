@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="EMP Torpedo 3.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 39.561387 39.561499"
+   height="39.561501mm"
+   width="39.56139mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\SN\GitHub\SuperNova-Shipyard-Source\Oulines - Projectiles\EMP Torp 4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="97.857143"
+     inkscape:cy="372.14286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(330.992, 777.896)">
+    <path
+       style="fill:#000000;stroke-width:0.0494519"
+       d="m -330.99227,-758.11481 v -19.78075 h 3.18965 3.18964 l 8.2e-4,2.70749 c 5.6e-4,1.48911 8.2e-4,3.64213 5.6e-4,4.78447 -2.7e-4,1.14233 -6.9e-4,8.82531 -8.2e-4,17.07325 l -5.6e-4,14.99629 h -3.18964 -3.18965 z"
+       id="path102" />
+    <path
+       style="fill:#000000;stroke-width:0.0494519"
+       d="m -313.09062,-741.28881 c -0.50365,-0.36105 -0.76224,-0.65285 -0.83446,-0.94167 -0.0252,-0.10089 -0.28406,-1.25153 -0.57519,-2.55705 -0.48154,-2.15929 -0.86153,-3.85497 -1.63457,-7.29415 -0.14977,-0.66637 -0.42369,-1.88633 -0.60868,-2.71101 l -0.33635,-1.49945 0.7548,-0.61732 0.75479,-0.61732 0.37439,-0.64427 0.37438,-0.64429 7.1e-4,-2.33249 c 8.2e-4,-3.02311 0.0676,-4.17764 0.34464,-5.96723 0.0526,-0.33997 0.13129,-0.8518 0.17482,-1.13738 0.17848,-1.17132 0.7572,-3.39132 1.11041,-4.25963 0.29717,-0.73054 0.80205,-1.66556 1.07665,-1.99391 0.12933,-0.15464 0.38535,-0.39295 0.56894,-0.52957 l 0.3338,-0.24842 0.3338,0.24842 c 0.4495,0.33452 0.74367,0.69954 1.09589,1.35985 0.55081,1.0326 0.82692,1.79753 1.2347,3.42045 0.25475,1.01387 0.34206,1.45056 0.51948,2.59812 0.36979,2.39189 0.41186,3.01774 0.42073,6.25898 l 0.007,2.5767 0.37503,0.64475 0.37504,0.64475 0.7368,0.60479 c 0.44995,0.36932 0.73682,0.63928 0.73682,0.69335 0,0.0487 -0.13418,0.68574 -0.29818,1.41564 -0.31089,1.38377 -0.9624,4.28686 -1.63513,7.28606 -0.21656,0.96555 -0.57153,2.55667 -0.7888,3.53581 -0.21727,0.97914 -0.42533,1.84766 -0.46235,1.93003 -0.11359,0.25258 -0.32079,0.46034 -0.79066,0.79269 l -0.45043,0.31857 h -1.41162 -1.4116 z"
+       id="path206" />
+    <path
+       style="fill:#000000;stroke-width:0.0494519"
+       d="m -297.82231,-747.86591 c -0.007,-5.24252 -0.007,-14.14385 1.1e-4,-19.78075 l 0.0125,-10.2489 h 3.18941 3.18941 v 19.78075 19.78075 h -3.18952 -3.18952 z"
+       id="path204" />
+    <text
+       x="-309.68884"
+       y="-711.42871"
+       id="text28"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-weight:normal;font-size:26.4583px;text-align:center;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         dy="14.816666"
+         id="tspan26"
+         x="-309.68884"
+         y="-711.42871">3487.25 px<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24">2</tspan></tspan></text>
+  </g>
+</svg>

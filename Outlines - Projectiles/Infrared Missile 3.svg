@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="infrared missile 3.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.450389 26.450373"
+   height="26.450375mm"
+   width="26.45039mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\SN\GitHub\Supernova-Shipyard-Source\Oulines - Projectiles\infrared missile 4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-249.50768"
+     inkscape:cy="-388.90873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-209.248, -25.4256)">
+    <path
+       style="fill:#000000;stroke-width:0.0330629"
+       d="m 221.15078,50.260075 v -0.425607 l -0.14051,-0.128197 c -0.0772,-0.07052 -0.65754,-0.468375 -1.28946,-0.884149 l -1.14893,-0.755954 v -2.254675 -2.254674 l 1.21753,-0.815337 c 0.82113,-0.54988 1.23019,-0.843105 1.2564,-0.900625 0.0289,-0.06359 0.0389,-0.951766 0.0389,-3.488888 v -3.403604 l -0.28103,-1.019868 -0.28104,-1.019867 v -2.273088 -2.273088 l 0.41903,-0.74932 c 0.23046,-0.412125 0.45381,-0.805114 0.49634,-0.873305 l 0.0773,-0.123985 h 0.95435 c 0.72372,0 0.96241,0.0099 0.98765,0.04133 0.0182,0.02273 0.24329,0.415953 0.49999,0.873826 l 0.46673,0.832501 v 2.271292 2.27129 l -0.28105,1.020506 -0.28103,1.020504 v 3.40424 c 0,2.55421 0.0102,3.425721 0.0393,3.490266 0.0266,0.0585 0.42854,0.346566 1.25638,0.900553 l 1.2172,0.814525 v 2.254508 2.25451 l -1.14892,0.756146 c -0.63194,0.415881 -1.21219,0.813856 -1.28947,0.884388 l -0.14052,0.128241 v 0.425608 0.425607 h -1.32251 -1.32252 z"
+       id="path360" />
+    <path
+       style="fill:#000000;stroke-width:0.0330629"
+       d="M 230.54067,38.650763 V 25.425575 h 2.57891 2.57893 V 38.650763 51.87595 h -2.57893 -2.57891 z"
+       id="path358" />
+    <path
+       style="fill:#000000;stroke-width:0.0330629"
+       d="M 209.24812,38.650763 V 25.425575 h 2.62851 2.62851 V 38.650763 51.87595 h -2.62851 -2.62851 z"
+       id="path116" />
+  </g>
+</svg>

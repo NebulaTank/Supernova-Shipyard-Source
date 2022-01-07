@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="Small Energy Blast 3.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 9.4121286 9.4121302"
+   height="9.4121304mm"
+   width="9.4121294mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\SN\GitHub\SuperNova-Shipyard-Source\Oulines - Projectiles\Small Energy Blast 4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32889873"
+     inkscape:cx="-95.774162"
+     inkscape:cy="-448.46631"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(51.9966, 902.341)">
+    <path
+       style="fill:#000000;stroke-width:0.0117652"
+       d="m -51.996586,-897.6354 v -4.70607 h 0.311777 0.311776 v 4.70607 4.70606 h -0.311776 -0.311777 z"
+       id="path185" />
+    <path
+       style="fill:#000000;stroke-width:0.0117652"
+       d="m -48.481132,-894.10294 c -0.203289,-0.20398 -0.340764,-0.36412 -0.489502,-0.5702 -0.692642,-0.95965 -1.107378,-2.24074 -1.108086,-3.4228 -1.98e-4,-0.3108 0.01416,-0.45051 0.06537,-0.63663 0.249034,-0.90509 1.180539,-1.70893 2.22869,-1.92322 0.202986,-0.0415 0.209955,-0.0421 0.494137,-0.0422 0.285526,-9e-5 0.290188,3e-4 0.494136,0.0424 0.357852,0.0739 0.671754,0.19913 0.994157,0.39667 0.617934,0.37864 1.074284,0.94291 1.234217,1.5261 0.05118,0.18663 0.06587,0.3278 0.06568,0.63103 -7.4e-4,1.18291 -0.41003,2.45573 -1.09766,3.4136 -0.156453,0.21793 -0.269223,0.35011 -0.489342,0.57354 l -0.182548,0.18531 -1.018165,-3e-5 -1.018165,-2e-5 z"
+       id="path289" />
+    <path
+       style="fill:#000000;stroke-width:0.0117652"
+       d="m -43.019768,-897.6354 v -4.70607 h 0.217655 0.217656 v 4.70607 4.70606 h -0.217656 -0.217655 z"
+       id="path287" />
+  </g>
+</svg>
