@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\SN\GitHub\Supernova-Shipyard-Source\Vectors - Ships\Carrier 4.png"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   width="258.30692mm"
+   height="258.30692mm"
+   viewBox="0 0 258.30691 258.30692"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Carrier 2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="60.000001"
+     inkscape:cy="460.00001"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(525.185, 561.349)">
+    <path
+       style="fill:#000000;stroke-width:0.322883"
+       d="m -525.18464,-432.19583 v -129.15346 h 16.14417 16.14419 v 129.15346 129.15347 h -16.14419 -16.14417 z"
+       id="path111" />
+    <path
+       style="fill:#000000;stroke-width:0.322883"
+       d="m -476.67297,-370.75099 0.0824,-30.87349 20.66456,-15.7582 20.66457,-15.75821 -0.0987,-1.22261 c -0.0969,-1.19909 -12.16453,-87.5439 -12.47962,-89.29206 l -0.16053,-0.89085 16.54034,0.0837 16.54024,0.0837 4.71096,14.04543 4.71094,14.04542 h 9.4668 9.4668 l 4.71094,-14.04542 4.71099,-14.04543 16.52796,-0.0837 16.52796,-0.0837 -0.15878,1.05229 c -0.70069,4.64333 -3.29118,23.33957 -3.24081,23.38991 0.035,0.0352 7.28977,-5.44301 16.12147,-12.17358 l 16.05765,-12.23744 -0.0824,30.87402 -0.0824,30.87402 -20.66455,15.74773 c -11.36551,8.66124 -20.7859,15.93938 -20.93425,16.17361 -0.14832,0.23422 -3.12932,20.76754 -6.62442,45.62957 l -6.35476,45.20372 h -25.98244 -25.98234 l -2.59449,-18.46522 c -1.42699,-10.15585 -2.68294,-18.55358 -2.79099,-18.6616 -0.10792,-0.10803 -11.25713,8.2317 -24.77589,18.53272 l -24.57952,18.72914 z"
+       id="path135" />
+    <path
+       style="fill:#000000;stroke-width:0.322883"
+       d="m -299.16607,-432.19583 v -129.15346 h 16.14417 16.14419 v 129.15346 129.15347 h -16.14419 -16.14417 z"
+       id="path133" />
+  </g>
+</svg>
