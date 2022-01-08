@@ -1,0 +1,68 @@
+References:
+
+4 directions images: Used to make top-down vectors, draw vertical guides aligned with the top image for features near the front of the ship, draw vertical guides aligned with the bottom image for features near the back of the ship, and draw horizontal guides aligned with the side images for features along the length of the ship.
+
+Abomination - https://imgur.com/a/EaZ84HQ
+Arachnid - https://imgur.com/a/PmEDCfi
+Argosy - https://imgur.com/a/PF70Tbj
+	Pirate - https://imgur.com/a/KYAuvva
+Arrow - https://imgur.com/a/mYQYNcV
+Asteroid Miner - https://imgur.com/a/mwxqz8v
+Cambrian - https://imgur.com/a/H4Minm6
+Cargo Drone - https://imgur.com/a/OwWZhJB
+Auroran Carrier - https://imgur.com/a/IZefc7N
+Federal Carrier - https://imgur.com/a/8f0EtxU
+Pirate Carrier - https://imgur.com/a/2T25ohn
+Cruiser - https://imgur.com/a/IaihlvQ
+Dart - https://imgur.com/a/uR8FuGH
+Destroyer - https://imgur.com/a/lzca7NR
+	Rebel - https://imgur.com/a/7NUYdaY
+Dragon - https://imgur.com/a/pf9mzyu
+	Rebel - https://imgur.com/a/kJygaCJ
+Enterprise - https://imgur.com/a/dGh6n7n
+	Pirate - https://imgur.com/a/AV8q8xr
+Firebird - https://imgur.com/a/wCmAxCo
+Hyperioid - https://imgur.com/a/UMZeSKK
+IDA Frigate - https://imgur.com/a/77pDKEx
+	Rebel - https://imgur.com/a/G3caEcB
+Javelin - https://imgur.com/a/O2c1e08
+Leviathan - https://imgur.com/a/a0RtZLX
+Lightning - https://imgur.com/a/GmiXvvV
+	Rebel - https://imgur.com/a/Qewtc0Q
+Manta - https://imgur.com/a/CUSUzCi
+Manticore - https://imgur.com/a/3O1tlCe
+Patrol Boat - https://imgur.com/a/QOPPC1m
+Pegasus - https://imgur.com/a/HbNZD09
+Phoenix - https://imgur.com/a/JkdrK0r
+Pod - https://imgur.com/a/JIyOkBB
+RAGE - https://imgur.com/a/CXgyabR
+Raven - https://imgur.com/a/UkKZZ7I
+Scarab - https://imgur.com/a/imRsMaw
+Scout Ship - https://imgur.com/a/eOwW2Pi
+Shuttle - https://imgur.com/a/zxOksFc
+	Heavy - https://imgur.com/a/1573Qfr
+Sprite - https://imgur.com/a/1pJrY9O
+Star Liner - https://imgur.com/a/CzTjuPQ
+Starbridge - https://imgur.com/a/zDRbIUO
+	Pirate - https://imgur.com/a/XEomIFp
+	Rebel - https://imgur.com/a/DgWnnbN
+	Modified - https://imgur.com/a/7ZQVHxj
+Striker - https://imgur.com/a/J7AKoAb
+Terrapin - https://imgur.com/a/tZ0YDTt
+Thunderforge - https://imgur.com/a/BKJlDnu
+Thunderhead - https://imgur.com/a/cwFt98j
+	Pirate - https://imgur.com/a/iKoeE51
+	Rebel - https://imgur.com/a/OZ7ubRP
+Valkyrie - https://imgur.com/a/ecKfmTz
+	Pirate - https://imgur.com/a/bnESxvG
+	Rebel - https://imgur.com/a/1IyIfLP
+Viper - https://imgur.com/a/OZbNhza
+	Pirate - https://imgur.com/a/mLmrpsM
+	Federal - https://imgur.com/a/LyxMKJd
+	Rebel - https://imgur.com/a/fhjdNCf
+	Anaconda - https://imgur.com/a/FuL1znz
+Wraith
+	Child - https://imgur.com/a/VW2hcXF
+	Youth - https://imgur.com/a/SOrLHh1
+	Adult - https://imgur.com/a/dhImdjr
+Zephyr - https://imgur.com/a/wPsJ46N
