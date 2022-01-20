@@ -3,11 +3,11 @@
    sodipodi:docname="Antimatter Torpedo 3.svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 31.785027 31.786318"
-   height="31.78632mm"
-   width="31.78503mm"
+   viewBox="0 0 22.433158 22.433459"
+   height="22.43346mm"
+   width="22.433161mm"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="C:\Users\SN\GitHub\SuperNova-Shipyard-Source\Oulines - Projectiles\Antimatter Torpedo 4.png"
+   inkscape:export-filename="C:\Users\SN\GitHub\Supernova-Shipyard-Source\Outlines - Projectiles\Antimatter Torpedo 4.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.65779745"
-     inkscape:cx="96.534275"
-     inkscape:cy="102.61517"
+     inkscape:cx="-233.35451"
+     inkscape:cy="149.74214"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
@@ -56,28 +56,28 @@
      id="layer1"
      transform="translate(294.833, 798.432)">
     <path
-       style="fill:#000000;stroke-width:0.0397314"
-       d="m -294.83253,-782.53937 v -15.89294 h 2.11667 2.11666 l -9.6e-4,15.88265 -9.8e-4,15.88267 -2.11551,0.0105 -2.1155,0.0105 z"
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -294.83253,-787.21537 v -11.21694 h 1.49391 1.49389 l -6.7e-4,11.20967 -7e-4,11.20969 -1.49308,0.007 -1.49308,0.007 z"
        id="path102" />
     <path
-       style="fill:#000000;stroke-width:0.0397314"
-       d="m -285.11818,-769.90548 c -1.10285,-0.14067 -2.00868,-0.95114 -2.28669,-2.0458 -0.0802,-0.31544 -0.0808,-0.3953 -0.0808,-10.55911 -10e-6,-5.63269 0.012,-10.30809 0.0256,-10.38977 0.10125,-0.58873 0.35392,-1.06542 0.79983,-1.50852 0.3593,-0.35706 0.64849,-0.52877 1.16464,-0.69155 l 0.298,-0.094 h 6.25769 6.25773 l 0.29797,0.0933 c 0.49931,0.15634 0.82096,0.3483 1.17353,0.70034 0.43838,0.43773 0.67948,0.88849 0.77624,1.45117 0.0516,0.30032 0.0518,20.57316 10e-5,20.83918 -0.19626,1.01113 -0.9001,1.78868 -1.93004,2.1322 l -0.27813,0.0927 -6.11865,0.005 c -3.36526,0.003 -6.22592,-0.009 -6.35704,-0.0253 z"
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -287.97633,-778.29861 c -0.77837,-0.0993 -1.41768,-0.6713 -1.6139,-1.44389 -0.0566,-0.22263 -0.057,-0.279 -0.057,-7.45242 0,-3.97545 0.008,-7.27526 0.0181,-7.3329 0.0715,-0.41552 0.24979,-0.75196 0.56451,-1.06469 0.25358,-0.252 0.45769,-0.37319 0.82198,-0.48808 l 0.21032,-0.0663 h 4.41656 4.41659 l 0.2103,0.0658 c 0.3524,0.11035 0.57942,0.24583 0.82825,0.49429 0.3094,0.30894 0.47957,0.62708 0.54786,1.02421 0.0364,0.21196 0.0366,14.52015 7e-5,14.7079 -0.13852,0.71363 -0.63527,1.26241 -1.36219,1.50486 l -0.19629,0.0654 -4.31843,0.004 c -2.37514,0.002 -4.39414,-0.006 -4.48668,-0.0179 z"
        id="path206" />
     <path
-       style="fill:#000000;stroke-width:0.0397314"
-       d="m -267.26723,-766.69679 c -0.0151,-0.0426 -0.0105,-31.4734 0.003,-31.66598 0.005,-0.0653 0.1339,-0.0695 2.11098,-0.0695 h 2.10575 v 15.8926 15.89258 h -2.10151 c -1.64574,0 -2.10516,-0.0105 -2.11835,-0.0496 z"
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -275.37746,-776.03398 c -0.0107,-0.0301 -0.007,-22.21333 0.002,-22.34925 0.004,-0.0461 0.0945,-0.049 1.48989,-0.049 h 1.4862 v 11.21669 11.21669 h -1.4832 c -1.16154,0 -1.48579,-0.007 -1.4951,-0.035 z"
        id="path204" />
     <text
-       x="-291.15158"
-       y="-728.87842"
-       id="text28"><tspan
+       x="-300.84756"
+       y="-731.23816"
+       id="text122"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-weight:normal;font-size:26.4583px;text-align:center;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         dy="14.816666"
-         id="tspan26"
-         x="-291.15158"
-         y="-728.87842">6085.21 px<tspan
+         dy="14.816665"
+         id="tspan120"
+         x="-300.84756"
+         y="-731.23816">3031.26 px<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan24">2</tspan></tspan></text>
+   id="tspan118">2</tspan></tspan></text>
   </g>
 </svg>
